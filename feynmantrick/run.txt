@@ -1,0 +1,3 @@
+manim -pql main.py IntegralIntro
+manim -pql main.py IntegralGraph
+manim -pqh si_feynman.py SinxOverXVideo
